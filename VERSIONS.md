@@ -17,6 +17,10 @@ the License.
 Note that the LinkedIn build system occasionally requires that we skip a
 version bump, so you will see a few skipped version numbers in the list below.
 
+0.9.8
+
+* Add HadoopValidatorPlugin with PigValidatorPlugin in its stack
+
 0.9.7
 
 * Modified Spark plugin so that Spark job run on YARN cluster unless explicitly specified otherwise.
