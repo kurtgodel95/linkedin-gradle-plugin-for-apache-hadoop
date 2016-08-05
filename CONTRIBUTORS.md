@@ -76,3 +76,4 @@ The following were contributed by Ragesh Rajagopalan. Thanks, Ragesh!
 
 The following were contributed by Pranay Hasan Yerra. Thanks, Pranay!
 * 'LIHADOOP-21658 Refactor AzkabanUploadTask in Hadoop Plugin by creating AzkabanHelper class'
+* 
